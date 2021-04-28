@@ -2,6 +2,8 @@
 I started to learn bash scripting and here is my first code.
 
 #### To install and run this in ```Linux``` Follow the given steps:
+Before installing it, install ```pv``` with this command ```sudo apt-get install pv -y```.
+
 1. ```git clone https://github.com/455am/first-code.git```
 2. ```cd first-code```
 3. ```chmod +x smriti.sh```
