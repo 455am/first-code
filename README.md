@@ -12,6 +12,6 @@ Before installation make sure you've installed git and pv in your termux.
 To install git type ```pkg install git -y```
 To install pv type ```pkg install pv -y```
 
-Now the main ```4 steps``` listed above.
+Now follow the main ```4 steps``` listed above.
 
 
